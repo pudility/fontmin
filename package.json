@@ -3,6 +3,7 @@
   "version": "0.9.6",
   "description": "Minify font seamlessly, font subsetter, webfont (eot, woff, svg) converter.",
   "main": "index.js",
+  "typings": "./fontmin.d.ts",
   "keywords": [
     "font",
     "webfont",
